@@ -1,0 +1,19 @@
+# --- Core (required) ---
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+requests>=2.28
+
+# --- Notebook environment ---
+jupyter>=1.0
+
+# --- Optional extras ---
+# The pipeline and notebook detect these at runtime and simply skip the
+# corresponding bonus section if they aren't installed, so they are not
+# strictly required.
+wordcloud>=1.9        # word cloud visualization
+vaderSentiment>=3.3   # lexicon-based sentiment scoring, used as a cross-check
+
+# --- Development / testing ---
+pytest>=7.4
