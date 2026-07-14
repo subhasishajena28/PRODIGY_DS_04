@@ -1,0 +1,409 @@
+tweet_id,entity,sentiment,text
+10265,Xbox,Neutral,RT @user123: Anyone know the system requirements for Xbox
+10065,Overwatch,Neutral,Comparing Overwatch pricing plans before deciding check http://t.co/abc123
+10120,Google,Positive,"Google really outdid themselves this time, fantastic work ..."
+10132,Google,Negative,Google has gone downhill these past few months !!!
+10378,Cyberpunk2077,Negative,Not happy at all with how Cyberpunk2077 handled this ...
+10026,Borderlands,Neutral,BORDERLANDS ANNOUNCED A NEW EVENT STARTING NEXT WEEK VIA @SOURCE
+10287,Nvidia,Positive,"RT @user123: This is exactly why Nvidia is my favorite, pure quality !!!"
+10111,Amazon,Irrelevant,RT @user123: Amazon came up on my timeline but I'm just here for the memes check http://t.co/abc123
+10280,Nvidia,Positive,"@friendly_user Nvidia support team fixed my issue in minutes, awesome service ..."
+10164,Microsoft,Positive,"Microsoft support team fixed my issue in minutes, awesome service check http://t.co/abc123"
+10056,Overwatch,Negative,RT @USER123: OVERWATCH CUSTOMER SERVICE WAS UNHELPFUL HONESTLY LOLLL
+10274,Xbox,Irrelevant,"JUST FINISHED A WORKOUT, FEELING GREAT TODAY VIA @SOURCE"
+10155,Google,Irrelevant,"Just finished a workout, feeling great today via @source"
+10346,CallOfDuty,Neutral,CallOfDuty released patch notes earlier today
+10220,PlayStation5,Neutral,Reading through the PlayStation5 changelog before the weekend
+10393,Cyberpunk2077,irrelevant,"Watching a movie tonight, nothing to do with Cyberpunk2077 ..."
+10118,Amazon,Irrelevant,Weather has been so weird all week here ...
+10057,Overwatch,Negative,RT @user123: Thinking about quitting Overwatch for good after this mess #brand
+10327,CallOfDuty,Positive,Can't stop talking about how goooood CallOfDuty is right now #brand
+10301,Nvidia,Neutral,@friendly_user Does Nvidia work on the older hardware models
+10052,Overwatch,Negative,"Worst experience with Overwatch support, still unresolved !!!"
+10138,Google,Negative,"Worst experience with Google support, still unresolved #gaming"
+10397,Cyberpunk2077,Irrelevant,CYBERPUNK2077 CAME UP ON MY TIMELINE BUT I'M JUST HERE FOR THE MEMES #GAMING
+10391,Cyberpunk2077,Irrelevant,@friendly_user Finally cleaned my room after putting it off forever check http://t.co/abc123
+10030,Borderlands,Irrelevant,RT @user123: Can't decide what to cook for dinner tonight
+10295,Nvidia,Negative,"I regret spending money on Nvidia, total waste #gaming"
+10253,Xbox,Negative,"Worst experience with Xbox support, still unresolved lolll"
+10194,Microsoft,Irrelevant,Grabbed coffee this morning then headed to work !!!
+10231,PlayStation5,Irrelevant,Finally cleaned my room after putting it off forever !!!
+10154,Google,Irrelevant,@friendly_user Can't decide what to cook for dinner tonight check http://t.co/abc123
+10228,PlayStation5,Neutral,@friendly_user Does PlayStation5 work on the older hardware models lolll
+10014,Borderlands,Negative,Not happy at all with how Borderlands handled this #gaming
+10241,Xbox,Positive,
+10357,CallOfDuty,Irrelevant,Weather has been sooo weird all week here lolll
+10060,Overwatch,Neutral,Overwatch announced a new event starting next week via @source
+10360,Cyberpunk2077,Positive,"@friendly_user This is exactly why Cyberpunk2077 is my favorite, pure quality !!!"
+10051,Overwatch,Negative,"OVERWATCH KEEPS CRASHING ON ME, SO FRUSTRATING !!!"
+10207,PlayStation5,Positive,"@friendly_user PlayStation5 support team fixed my issue in minutes, awesome service"
+10235,PlayStation5,Irrelevant,Can't decide what to cook for dinner tonight
+10089,Amazon,Positive,RT @user123: Can't stop talking about how good Amazon is right now lolll
+10187,Microsoft,Neutral,Comparing Microsoft pricing plans before deciding check http://t.co/abc123
+10177,Microsoft,Negative,Why does Microsoft keep charging me for things I didn't buy
+10246,Xbox,Positive,@FRIENDLY_USER BEEN USING XBOX ALL WEEK AND IT KEEPS GETTING BETTER #BRAND
+10305,Nvidia,Neutral,Nvidia posted an update on their roadmap today via @source
+10109,Amazon,Neutral,Amazon stock moved slightly after the earnings call ...
+10364,Cyberpunk2077,Positive,"This is exactly why Cyberpunk2077 is my favorite, pure quality !!!"
+10129,Google,Positive,Huge shoutout to Google for such an amazing release check http://t.co/abc123
+10237,PlayStation5,Irrelevant,"RT @user123: Watching a movie tonight, nothing to do with PlayStation5 check http://t.co/abc123"
+10028,Borderlands,Neutral,RT @user123: Comparing Borderlands pricing plans before deciding check http://t.co/abc123
+10041,Overwatch,Positive,@friendly_user Huge shoutout to Overwatch for such an amazing release #gaming
+10003,Borderlands,Positive,@FRIENDLY_USER HUGE SHOUTOUT TO BORDERLANDS FOR SUCH AN AMAZING RELEASE
+10022,Borderlands,Neutral,RT @user123: Borderlands released patch notes earlier today #gaming
+10159,Google,Irrelevant,"Random thought, pineapple does not belong on pizza"
+10372,Cyberpunk2077,Negative,"I regret spending money on Cyberpunk2077, total waste via @source"
+10210,PlayStation5,Negative,"RT @user123: PlayStation5 keeps crashing on me, so frustrating via @source"
+10216,PlayStation5,Negative,"@friendly_user I regret spending money on PlayStation5, total waste check http://t.co/abc123"
+10268,Xbox,Neutral,Reading through the Xbox changelog before the weekend
+10114,Amazon,Irrelevant,CAN'T DECIDE WHAT TO COOK FOR DINNER TONIGHT !!!
+10398,Cyberpunk2077,Irrelevant,@friendly_user My cat knocked over a plant again !!!
+10080,Amazon,Positive,Huge shoutout to Amazon for such an amazing release #gaming
+10148,Google,Neutral,Google announced a new event starting next week !!!
+10361,Cyberpunk2077,Positive,"RT @user123: I absolutely love Cyberpunk2077, best experience ever! !!!"
+10368,Cyberpunk2077,Positive,Been using Cyberpunk2077 all week and it keeps getting better lolll
+10331,CallOfDuty,Negative,RT @user123: CallOfDuty is lagging so bad I can barely use it #brand
+10090,Amazon,Negative,Not happy at all with how Amazon handled this #brand
+10330,CallOfDuty,Negative,CallOfDuty customer service was unhelpful honestly ...
+10333,CallOfDuty,Negative,RT @user123: CallOfDuty is lagging so bad I can barely use it via @source
+10238,PlayStation5,Irrelevant,@friendly_user Anyone else stuck in traffic right now lol #gaming
+10332,CallOfDuty,Negative,"CallOfDuty keeps crashing on me, so frustrating"
+10292,Nvidia,Negative,
+10385,Cyberpunk2077,Neutral,@friendly_user Cyberpunk2077 posted an update on their roadmap today check http://t.co/abc123
+10145,Google,Neutral,@friendly_user Google announced a new event starting next week
+10170,Microsoft,Negative,Microsoft has gone downhill these past few months check http://t.co/abc123
+10232,PlayStation5,Irrelevant,"RT @USER123: RANDOM THOUGHT, PINEAPPLE DOES NOT BELONG ON PIZZA !!!"
+10374,Cyberpunk2077,Negative,Cyberpunk2077 has gone downhill these past few months via @source
+10221,PlayStation5,Neutral,RT @user123: Looking for reviews on the latest PlayStation5 release
+10059,Overwatch,Negative,Overwatch is lagging so bad I can barely use it
+10362,Cyberpunk2077,Positive,"Genuinely happy with Cyberpunk2077 lately, well done team"
+10074,Overwatch,Irrelevant,WEEKEND PLANS INVOLVE ABSOLUTELY NOTHING AND I LOVE IT LOLLL
+10079,Overwatch,Irrelevant,Weekend plans involve absolutely nothing and I love it !!!
+10270,Xbox,Irrelevant,Xbox came up on my timeline but I'm just here for the memes
+10098,Amazon,Negative,Not happy at all with how Amazon handled this
+10081,Amazon,Positive,"I absolutely love Amazon, best experience ever! #brand"
+10050,Overwatch,Negative,Overwatch customer service was unhelpful honestly ...
+10244,Xbox,Positive,"Xbox just made my day, this update is incredible honestly"
+10358,CallOfDuty,Irrelevant,"Random thought, pineapple does not belong on pizza check http://t.co/abc123"
+10147,Google,Neutral,Looking for reviews on the latest Google release ...
+10386,Cyberpunk2077,Neutral,RT @user123: Comparing Cyberpunk2077 pricing plans before deciding lolll
+10053,Overwatch,Negative,"Overwatch removed the feature everyone liked, terrible decision ..."
+10352,CallOfDuty,Irrelevant,CAN'T DECIDE WHAT TO COOK FOR DINNER TONIGHT CHECK HTTP://T.CO/ABC123
+10140,Google,Neutral,Google stock moved slightly after the earnings call !!!
+10359,CallOfDuty,Irrelevant,My cat knocked over a plant again ...
+10259,Xbox,Negative,"Xbox removed the feature everyone liked, terrible decision via @source"
+10369,Cyberpunk2077,Positive,"Cyberpunk2077 never disappoints, highly recommend to everyone ..."
+10174,Microsoft,Negative,"Worst experience with Microsoft support, still unresolved check http://t.co/abc123"
+10288,Nvidia,Positive,"I absolutely love Nvidia, best experience ever!"
+10066,Overwatch,Neutral,@friendly_user Overwatch posted an update on their roadmap today
+10303,Nvidia,Neutral,@friendly_user Anyone know the system requirements for Nvidia
+10165,Microsoft,Positive,"@FRIENDLY_USER MICROSOFT NEVER DISAPPOINTS, HIGHLY RECOMMEND TO EVERYONE"
+10101,Amazon,Neutral,Amazon released patch notes earlier today ...
+10382,Cyberpunk2077,Neutral,@friendly_user Reading through the Cyberpunk2077 changelog before the weekend
+10084,Amazon,positive,"Amazon never disappoints, highly recommend to everyone lolll"
+10115,Amazon,Irrelevant,@friendly_user My cat knocked over a plant again
+10328,CallOfDuty,Positive,"RT @user123: CallOfDuty never disappoints, highly recommend to everyone ..."
+10099,Amazon,Negative,Thinking about quitting Amazon for good after this mess
+10254,Xbox,Negative,@friendly_user Why does Xbox keep charging me for things I didn't buy
+10141,Google,Neutral,Does Google work on the older hardware models
+10015,Borderlands,Negative,Borderlands has gone downhill these past few months lolll
+10256,Xbox,Negative,"Xbox keeps crashing on me, sooo frustrating !!!"
+10261,Xbox,Neutral,RT @user123: Looking for reviews on the latest Xbox release lolll
+10300,Nvidia,Neutral,Nvidia stock moved slightly after the earnings call check http://t.co/abc123
+10086,Amazon,Positive,@FRIENDLY_USER BEEN USING AMAZON ALL WEEK AND IT KEEPS GETTING BETTER CHECK HTTP://T.CO/ABC123
+10037,Borderlands,Irrelevant,GRABBED COFFEE THIS MORNING THEN HEADED TO WORK #BRAND
+10002,Borderlands,Positive,"@FRIENDLY_USER BORDERLANDS JUST MADE MY DAY, THIS UPDATE IS INCREDIBLE HONESTLY !!!"
+10062,Overwatch,Neutral,RT @user123: Anyone know the system requirements for Overwatch ...
+10284,Nvidia,Positive,Huge shoutout to Nvidia for such an amazing release check http://t.co/abc123
+10157,Google,Irrelevant,"Just finished a workout, feeling great today #gaming"
+10306,Nvidia,Neutral,Nvidia released patch notes earlier today
+10173,Microsoft,Negative,"@friendly_user Microsoft servers have been down all day, unacceptable"
+10204,PlayStation5,Positive,"Genuinely happy with PlayStation5 lately, well done team"
+10073,Overwatch,Irrelevant,WEEKEND PLANS INVOLVE ABSOLUTELY NOTHING AND I LOVE IT LOLLL
+10316,Nvidia,Irrelevant,SAW NVIDIA MENTIONED IN PASSING BUT THIS IS ABOUT LUNCH LOLLL
+10104,Amazon,Neutral,Anyone know the system requirements for Amazon #brand
+10248,Xbox,Positive,@friendly_user Been using Xbox all week and it keeps getting better
+10296,Nvidia,Negative,Why does Nvidia keep charging me for things I didn't buy
+10016,Borderlands,Negative,"Borderlands keeps crashing on me, so frustrating"
+10227,PlayStation5,Neutral,Looking for reviews on the latest PlayStation5 release #gaming
+10335,CallOfDuty,Negative,"CallOfDuty servers have been down all day, unacceptable #gaming"
+10163,Microsoft,positive,"@friendly_user Microsoft community is so wholesome, love being part of it"
+10088,Amazon,Positive,"Amazon just made my day, this update is incredible honestly"
+10334,CallOfDuty,Negative,"Really disappointed with the new CallOfDuty update, feels worse now via @source"
+10102,Amazon,Neutral,Amazon stock moved slightly after the earnings call
+10162,Microsoft,Positive,"RT @USER123: MICROSOFT NEVER DISAPPOINTS, HIGHLY RECOMMEND TO EVERYONE #BRAND"
+10070,Overwatch,Irrelevant,Can't decide what to cook for dinner tonight check http://t.co/abc123
+10133,Google,Negative,THINKING ABOUT QUITTING GOOGLE FOR GOOD AFTER THIS MESS #BRAND
+10193,Microsoft,Irrelevant,@friendly_user Anyone else stuck in traffic right now lol lolll
+10394,Cyberpunk2077,Irrelevant,"@friendly_user Random thought, pineapple does not belong on pizza #gaming"
+10139,Google,Negative,Google has gone downhill these past few months
+10263,Xbox,Neutral,Reading through the Xbox changelog before the weekend
+10018,Borderlands,Negative,Borderlands has gone downhill these past few months !!!
+10308,Nvidia,Neutral,Looking for reviews on the latest Nvidia release ...
+10020,Borderlands,Neutral,Borderlands announced a new event starting next week
+10055,Overwatch,Negative,
+10200,PlayStation5,Positive,"PlayStation5 really outdid themselves this time, fantastic work !!!"
+10338,CallOfDuty,Negative,"CallOfDuty servers have been down all day, unacceptable check http://t.co/abc123"
+10313,Nvidia,Irrelevant,Weather has been so weird all week here #gaming
+10240,Xbox,Positive,Been using Xbox all week and it keeps getting better
+10150,Google,Irrelevant,@friendly_user Weekend plans involve absolutely nothing and I love it via @source
+10266,Xbox,Neutral,DOES XBOX WORK ON THE OLDER HARDWARE MODELS LOLLL
+10212,PlayStation5,Negative,PlayStation5 has gone downhill these past few months #gaming
+10097,Amazon,Negative,@friendly_user Why does Amazon keep charging me for things I didn't buy ...
+10347,CallOfDuty,Neutral,RT @user123: CallOfDuty posted an update on their roadmap today
+10122,Google,Positive,"Google just made my day, this update is incredible honestly !!!"
+10113,Amazon,Irrelevant,SAW AMAZON MENTIONED IN PASSING BUT THIS IS ABOUT LUNCH #BRAND
+10375,Cyberpunk2077,Negative,Why does Cyberpunk2077 keep charging me for things I didn't buy #brand
+10269,Xbox,Neutral,RT @user123: Does Xbox work on the older hardware models
+10108,Amazon,Neutral,This Amazon tutorial helped me understand the basics lolll
+10337,CallOfDuty,Negative,@friendly_user CallOfDuty customer service was unhelpful honestly
+10094,Amazon,Negative,Amazon has gone downhill these past few months #gaming
+10289,Nvidia,Positive,"Nvidia community is so wholesome, love being part of it !!!"
+10125,Google,Positive,"RT @USER123: GOOGLE NEVER DISAPPOINTS, HIGHLY RECOMMEND TO EVERYONE ..."
+10239,PlayStation5,Irrelevant,Weekend plans involve absolutely nothing and I love it lolll
+10384,Cyberpunk2077,Neutral,@friendly_user Does Cyberpunk2077 work on the older hardware models check http://t.co/abc123
+10091,Amazon,Negative,Amazon has gone downhill these past few months
+10381,Cyberpunk2077,Neutral,Comparing Cyberpunk2077 pricing plans before deciding
+10336,CallOfDuty,Negative,RT @USER123: THINKING ABOUT QUITTING CALLOFDUTY FOR GOOD AFTER THIS MESS
+10188,Microsoft,Neutral,RT @user123: Anyone know the system requirements for Microsoft
+10181,Microsoft,Neutral,Reading through the Microsoft changelog before the weekend via @source
+10178,Microsoft,Negative,MICROSOFT HAS GONE DOWNHILL THESE PAST FEW MONTHS
+10326,CallOfDuty,Positive,"CallOfDuty support team fixed my issue in minutes, awesome service check http://t.co/abc123"
+10024,Borderlands,Neutral,@friendly_user Borderlands stock moved slightly after the earnings call check http://t.co/abc123
+10255,Xbox,Negative,@friendly_user Xbox has gone downhill these past few months check http://t.co/abc123
+10243,Xbox,Positive,"Genuinely happy with Xbox lately, well done team"
+10126,Google,Positive,"This is exactly why Google is my favorite, pure quality"
+10324,CallOfDuty,Positive,"CallOfDuty really outdid themselves this time, fantastic work #brand"
+10078,Overwatch,Irrelevant,Anyone else stuck in traffic right now lol #gaming
+10217,PlayStation5,Negative,"PlayStation5 servers have been down all day, unacceptable check http://t.co/abc123"
+10206,PlayStation5,Positive,"@friendly_user Genuinely happy with PlayStation5 lately, well done team !!!"
+10297,Nvidia,Negative,"Really disappointed with the new Nvidia update, feels worse now ..."
+10367,Cyberpunk2077,Positive,"Genuinely happy with Cyberpunk2077 lately, well done team #brand"
+10061,Overwatch,Neutral,Overwatch posted an update on their roadmap today check http://t.co/abc123
+10278,Xbox,Irrelevant,@friendly_user Weather has been so weird all week here
+10093,Amazon,Negative,Amazon is lagging so bad I can barely use it check http://t.co/abc123
+10321,CallOfDuty,Positive,"CallOfDuty community is so wholesome, love being part of it"
+10222,PlayStation5,Neutral,PlayStation5 announced a new event starting next week
+10069,Overwatch,Neutral,Looking for reviews on the latest Overwatch release #brand
+10036,Borderlands,Irrelevant,Finally cleaned my room after putting it off forever via @source
+10040,Overwatch,Positive,"RT @user123: This is exactly why Overwatch is my favorite, pure quality lolll"
+10160,Microsoft,Positive,"RT @user123: Microsoft just made my day, this update is incredible honestly !!!"
+10283,Nvidia,Positive,HUGE SHOUTOUT TO NVIDIA FOR SUCH AN AMAZING RELEASE
+10011,Borderlands,Negative,"RT @user123: Borderlands servers have been down all day, unacceptable #brand"
+10144,Google,Neutral,Google announced a new event starting next week check http://t.co/abc123
+10273,Xbox,Irrelevant,WEATHER HAS BEEN SO WEIRD ALL WEEK HERE CHECK HTTP://T.CO/ABC123
+10351,CallOfDuty,Irrelevant,RT @user123: Anyone else stuck in traffic right now lol via @source
+10236,PlayStation5,Irrelevant,PlayStation5 came up on my timeline but I'm just here for the memes check http://t.co/abc123
+10127,Google,Positive,"I absolutely love Google, best experience ever! #brand"
+10202,PlayStation5,Positive,"PlayStation5 community is so wholesome, love being part of it"
+10184,Microsoft,Neutral,Anyone know the system requirements for Microsoft lolll
+10046,Overwatch,Positive,"Overwatch just made my day, this update is incredible honestly #brand"
+10281,Nvidia,Positive,RT @user123: Just tried the new Nvidia update and I'm so impressed via @source
+10298,Nvidia,Negative,Thinking about quitting Nvidia for good after this mess
+10356,CallOfDuty,Irrelevant,Can't decide what to cook for dinner tonight
+10176,Microsoft,Negative,Microsoft is lagging sooo bad I can barely use it via @source
+10128,Google,Positive,Huge shoutout to Google for such an amazing release ...
+10143,Google,Neutral,Google stock moved slightly after the earnings call #gaming
+10007,Borderlands,Positive,"This is exactly why Borderlands is my favorite, pure quality"
+10389,Cyberpunk2077,Neutral,RT @user123: Anyone know the system requirements for Cyberpunk2077
+10242,Xbox,Positive,Huge shoutout to Xbox for such an amazing release
+10302,Nvidia,Neutral,NVIDIA RELEASED PATCH NOTES EARLIER TODAY CHECK HTTP://T.CO/ABC123
+10179,Microsoft,Negative,"@friendly_user Worst experience with Microsoft support, still unresolved ..."
+10172,Microsoft,Negative,MICROSOFT CUSTOMER SERVICE WAS UNHELPFUL HONESTLY #GAMING
+10294,Nvidia,Negative,"Nvidia removed the feature everyone liked, terrible decision"
+10008,Borderlands,Positive,"@friendly_user Borderlands support team fixed my issue in minutes, awesome service"
+10156,Google,Irrelevant,CAN'T DECIDE WHAT TO COOK FOR DINNER TONIGHT CHECK HTTP://T.CO/ABC123
+10027,Borderlands,Neutral,
+10293,Nvidia,Negative,Not happy at all with how Nvidia handled this #brand
+10350,CallOfDuty,Irrelevant,GRABBED COFFEE THIS MORNING THEN HEADED TO WORK ...
+10058,Overwatch,Negative,Thinking about quitting Overwatch for good after this mess
+10205,PlayStation5,Positive,"@friendly_user This is exactly why PlayStation5 is my favorite, pure quality !!!"
+10064,Overwatch,Neutral,RT @user123: Does Overwatch work on the older hardware models #brand
+10082,Amazon,Positive,"This is exactly why Amazon is my favorite, pure quality #brand"
+10395,Cyberpunk2077,Irrelevant,Weekend plans involve absolutely nothing and I love it !!!
+10213,PlayStation5,Negative,@friendly_user PlayStation5 is lagging so bad I can barely use it #brand
+10310,Nvidia,Irrelevant,@friendly_user Finally cleaned my room after putting it off forever
+10153,Google,Irrelevant,Anyone else stuck in traffic right now lol ...
+10048,Overwatch,Positive,"OVERWATCH JUST MADE MY DAY, THIS UPDATE IS INCREDIBLE HONESTLY LOLLL"
+10208,PlayStation5,Positive,"Genuinely happy with PlayStation5 lately, well done team #brand"
+10245,Xbox,Positive,"RT @user123: Xbox community is so wholesome, love being part of it"
+10031,Borderlands,Irrelevant,"RANDOM THOUGHT, PINEAPPLE DOES NOT BELONG ON PIZZA #BRAND"
+10001,Borderlands,Positive,Been using Borderlands all week and it keeps getting better
+10171,Microsoft,Negative,MICROSOFT HAS GONE DOWNHILL THESE PAST FEW MONTHS !!!
+10323,CallOfDuty,Positive,"This is exactly why CallOfDuty is my favorite, pure quality #brand"
+10013,Borderlands,Negative,Borderlands has gone downhill these past few months
+10365,Cyberpunk2077,Positive,Been using Cyberpunk2077 all week and it keeps getting better ...
+10009,Borderlands,Positive,Just tried the new Borderlands update and I'm so impressed
+10146,Google,Neutral,"Just saw Google trending, wonder what happened !!!"
+10258,Xbox,Negative,RT @user123: Xbox customer service was unhelpful honestly #gaming
+10264,Xbox,Neutral,Xbox announced a new event starting next week #gaming
+10370,Cyberpunk2077,Negative,Not happy at all with how Cyberpunk2077 handled this #brand
+10095,Amazon,Negative,"RT @user123: Amazon removed the feature everyone liked, terrible decision check http://t.co/abc123"
+10034,Borderlands,Irrelevant,Saw Borderlands mentioned in passing but this is about lunch lolll
+10096,Amazon,Negative,@friendly_user Thinking about quitting Amazon for good after this mess via @source
+10387,Cyberpunk2077,Neutral,This Cyberpunk2077 tutorial helped me understand the basics #gaming
+10277,Xbox,Irrelevant,"Random thought, pineapple does not belong on pizza via @source"
+10249,Xbox,Positive,@friendly_user Been using Xbox all week and it keeps getting better check http://t.co/abc123
+10318,Nvidia,Irrelevant,Anyone else stuck in traffic right now lol ...
+10340,CallOfDuty,Neutral,@FRIENDLY_USER CALLOFDUTY STOCK MOVED SLIGHTLY AFTER THE EARNINGS CALL LOLLL
+10116,Amazon,Irrelevant,My cat knocked over a plant again
+10168,Microsoft,Positive,"Microsoft support team fixed my issue in minutes, awesome service"
+10045,Overwatch,Positive,"RT @user123: Overwatch just made my day, this update is incredible honestly !!!"
+10161,Microsoft,Positive,"RT @user123: Genuinely happy with Microsoft lately, well done team #gaming"
+10223,PlayStation5,Neutral,"@friendly_user Just saw PlayStation5 trending, wonder what happened check http://t.co/abc123"
+10307,Nvidia,Neutral,RT @user123: Looking for reviews on the latest Nvidia release lolll
+10117,Amazon,Irrelevant,My cat knocked over a plant again lolll
+10032,Borderlands,Irrelevant,RT @user123: Grabbed coffee this morning then headed to work ...
+10077,Overwatch,Irrelevant,"@friendly_user Random thought, pineapple does not belong on pizza !!!"
+10314,Nvidia,Irrelevant,Finally cleaned my room after putting it off forever !!!
+10063,Overwatch,Neutral,RT @user123: Anyone know the system requirements for Overwatch lolll
+10230,PlayStation5,Irrelevant,Grabbed coffee this morning then headed to work
+10186,Microsoft,Neutral,This Microsoft tutorial helped me understand the basics ...
+10267,Xbox,Neutral,Comparing Xbox pricing plans before deciding
+10199,Microsoft,Irrelevant,MY CAT KNOCKED OVER A PLANT AGAIN !!!
+10271,Xbox,Irrelevant,Grabbed coffee this morning then headed to work
+10121,Google,Positive,RT @user123: Just tried the new Google update and I'm so impressed !!!
+10371,Cyberpunk2077,Negative,"Worst experience with Cyberpunk2077 support, still unresolved ..."
+10344,CallOfDuty,Neutral,@FRIENDLY_USER COMPARING CALLOFDUTY PRICING PLANS BEFORE DECIDING LOLLL
+10158,Google,Irrelevant,RT @user123: Grabbed coffee this morning then headed to work
+10085,Amazon,Positive,JUST TRIED THE NEW AMAZON UPDATE AND I'M SO IMPRESSED
+10225,PlayStation5,Neutral,RT @user123: PlayStation5 posted an update on their roadmap today check http://t.co/abc123
+10262,Xbox,Neutral,Xbox stock moved slightly after the earnings call !!!
+10320,CallOfDuty,Positive,JUST TRIED THE NEW CALLOFDUTY UPDATE AND I'M SO IMPRESSED LOLLL
+10076,Overwatch,Irrelevant,"Watching a movie tonight, nothing to do with Overwatch #brand"
+10388,Cyberpunk2077,Neutral,THIS CYBERPUNK2077 TUTORIAL HELPED ME UNDERSTAND THE BASICS
+10380,Cyberpunk2077,Neutral,Cyberpunk2077 stock moved slightly after the earnings call lolll
+10087,Amazon,Positive,"This is exactly why Amazon is my favorite, pure quality via @source"
+10399,Cyberpunk2077,Irrelevant,Saw Cyberpunk2077 mentioned in passing but this is about lunch
+10182,Microsoft,Neutral,Does Microsoft work on the older hardware models ...
+10105,Amazon,Neutral,Comparing Amazon pricing plans before deciding
+10049,Overwatch,Positive,RT @user123: Just tried the new Overwatch update and I'm so impressed
+10005,Borderlands,Positive,"RT @user123: Borderlands never disappoints, highly recommend to everyone #gaming"
+10017,Borderlands,negative,"Really disappointed with the new Borderlands update, feels worse now"
+10234,PlayStation5,Irrelevant,"RT @user123: Random thought, pineapple does not belong on pizza #brand"
+10319,Nvidia,Irrelevant,RT @user123: Saw Nvidia mentioned in passing but this is about lunch check http://t.co/abc123
+10106,Amazon,Neutral,Anyone know the system requirements for Amazon #gaming
+10134,Google,Negative,@friendly_user Google has gone downhill these past few months
+10322,CallOfDuty,Positive,"@friendly_user CallOfDuty really outdid themselves this time, fantastic work #gaming"
+10226,PlayStation5,Neutral,DOES PLAYSTATION5 WORK ON THE OLDER HARDWARE MODELS #GAMING
+10214,PlayStation5,Negative,Why does PlayStation5 keep charging me for things I didn't buy check http://t.co/abc123
+10190,Microsoft,Irrelevant,Grabbed coffee this morning then headed to work
+10353,CallOfDuty,Irrelevant,"Just finished a workout, feeling great today"
+10282,Nvidia,Positive,"@friendly_user Genuinely happy with Nvidia lately, well done team ..."
+10029,Borderlands,Neutral,"Just saw Borderlands trending, wonder what happened via @source"
+10169,Microsoft,Positive,"Microsoft never disappoints, highly recommend to everyone check http://t.co/abc123"
+10180,Microsoft,Neutral,This Microsoft tutorial helped me understand the basics ...
+10100,Amazon,Neutral,Amazon posted an update on their roadmap today #brand
+10197,Microsoft,Irrelevant,Microsoft came up on my timeline but I'm just here for the memes via @source
+10209,PlayStation5,Positive,"PlayStation5 just made my day, this update is incredible honestly"
+10135,Google,Negative,"Google keeps crashing on me, so frustrating lolll"
+10376,Cyberpunk2077,Negative,"@friendly_user Cyberpunk2077 removed the feature everyone liked, terrible decision via @source"
+10342,CallOfDuty,Neutral,Does CallOfDuty work on the older hardware models
+10198,Microsoft,Irrelevant,Microsoft came up on my timeline but I'm just here for the memes #brand
+10166,Microsoft,Positive,"Microsoft just made my day, this update is incredible honestly #brand"
+10315,Nvidia,Irrelevant,Grabbed coffee this morning then headed to work lolll
+10136,Google,Negative,"GOOGLE REMOVED THE FEATURE EVERYONE LIKED, TERRIBLE DECISION VIA @SOURCE"
+10285,Nvidia,Positive,"Nvidia support team fixed my issue in minutes, awesome service !!!"
+10131,Google,Negative,"RT @USER123: GOOGLE SERVERS HAVE BEEN DOWN ALL DAY, UNACCEPTABLE"
+10039,Borderlands,Irrelevant,RT @USER123: FINALLY CLEANED MY ROOM AFTER PUTTING IT OFF FOREVER #BRAND
+10215,PlayStation5,Negative,"Worst experience with PlayStation5 support, still unresolved lolll"
+10043,Overwatch,Positive,RT @user123: Huge shoutout to Overwatch for such an amazing release
+10054,Overwatch,Negative,"@FRIENDLY_USER OVERWATCH KEEPS CRASHING ON ME, SO FRUSTRATING LOLLL"
+10379,Cyberpunk2077,Negative,RT @user123: Thinking about quitting Cyberpunk2077 for good after this mess #gaming
+10299,Nvidia,Negative,"I regret spending money on Nvidia, total waste via @source"
+10363,Cyberpunk2077,Positive,"RT @USER123: CYBERPUNK2077 SUPPORT TEAM FIXED MY ISSUE IN MINUTES, AWESOME SERVICE #GAMING"
+10304,Nvidia,Neutral,Comparing Nvidia pricing plans before deciding
+10035,Borderlands,Irrelevant,@friendly_user Anyone else stuck in traffic right now lol #brand
+10309,Nvidia,Neutral,Does Nvidia work on the older hardware models check http://t.co/abc123
+10276,Xbox,Irrelevant,"RT @user123: Watching a movie tonight, nothing to do with Xbox lolll"
+10124,Google,Positive,"This is exactly why Google is my favorite, pure quality check http://t.co/abc123"
+10142,Google,Neutral,@friendly_user Google stock moved slightly after the earnings call
+10110,Amazon,Irrelevant,Finally cleaned my room after putting it off forever lolll
+10355,CallOfDuty,Irrelevant,My cat knocked over a plant again #gaming
+10107,Amazon,Neutral,@friendly_user Comparing Amazon pricing plans before deciding via @source
+10012,Borderlands,Negative,"Worst experience with Borderlands support, still unresolved via @source"
+10272,Xbox,Irrelevant,@friendly_user Can't decide what to cook for dinner tonight
+10047,Overwatch,Positive,Can't stop talking about how good Overwatch is right now check http://t.co/abc123
+10203,PlayStation5,Positive,Just tried the new PlayStation5 update and I'm so impressed
+10341,CallOfDuty,Neutral,"Just saw CallOfDuty trending, wonder what happened #gaming"
+10119,Amazon,Irrelevant,"Watching a movie tonight, nothing to do with Amazon via @source"
+10021,Borderlands,Neutral,Does Borderlands work on the older hardware models #gaming
+10083,Amazon,Positive,Can't stop talking about how good Amazon is right now check http://t.co/abc123
+10130,Google,Negative,Thinking about quitting Google for good after this mess
+10329,CallOfDuty,Positive,"CallOfDuty just made my day, this update is incredible honestly lolll"
+10229,PlayStation5,Neutral,PlayStation5 announced a new event starting next week check http://t.co/abc123
+10392,Cyberpunk2077,Irrelevant,Anyone else stuck in traffic right now lol !!!
+10286,Nvidia,Positive,"Nvidia really outdid themselves this time, fantastic work lolll"
+10123,Google,Positive,"I absolutely love Google, best experience ever! !!!"
+10033,Borderlands,Irrelevant,Can't decide what to cook for dinner tonight #gaming
+10377,Cyberpunk2077,Negative,@FRIENDLY_USER CYBERPUNK2077 CUSTOMER SERVICE WAS UNHELPFUL HONESTLY
+10004,Borderlands,Positive,"Genuinely happy with Borderlands lately, well done team lolll"
+10019,Borderlands,Negative,Borderlands customer service was unhelpful honestly #gaming
+10219,PlayStation5,Negative,"PLAYSTATION5 SERVERS HAVE BEEN DOWN ALL DAY, UNACCEPTABLE CHECK HTTP://T.CO/ABC123"
+10396,Cyberpunk2077,Irrelevant,RT @user123: Can't decide what to cook for dinner tonight via @source
+10149,Google,Neutral,This Google tutorial helped me understand the basics ...
+10224,PlayStation5,Neutral,PlayStation5 posted an update on their roadmap today #gaming
+10247,Xbox,Positive,@friendly_user Huge shoutout to Xbox for such an amazing release #brand
+10354,CallOfDuty,Irrelevant,Grabbed coffee this morning then headed to work !!!
+10151,Google,Irrelevant,"Just finished a workout, feeling great today #brand"
+10317,Nvidia,Irrelevant,Can't decide what to cook for dinner tonight
+10291,Nvidia,Negative,"RT @user123: I regret spending money on Nvidia, total waste !!!"
+10233,PlayStation5,Irrelevant,PlayStation5 came up on my timeline but I'm just here for the memes check http://t.co/abc123
+10010,Borderlands,Negative,WHY DOES BORDERLANDS KEEP CHARGING ME FOR THINGS I DIDN'T BUY
+10279,Xbox,Irrelevant,RT @user123: Weather has been so weird all week here
+10071,Overwatch,Irrelevant,Grabbed coffee this morning then headed to work !!!
+10252,Xbox,negative,NOT HAPPY AT ALL WITH HOW XBOX HANDLED THIS LOLLL
+10092,Amazon,Negative,Not happy at all with how Amazon handled this lolll
+10349,CallOfDuty,Neutral,CallOfDuty posted an update on their roadmap today ...
+10192,Microsoft,Irrelevant,Microsoft came up on my timeline but I'm just here for the memes #brand
+10257,Xbox,Negative,Not happy at all with how Xbox handled this
+10339,CallOfDuty,Negative,@FRIENDLY_USER CALLOFDUTY HAS GONE DOWNHILL THESE PAST FEW MONTHS ...
+10390,Cyberpunk2077,Irrelevant,Weather has been so weird all week here
+10195,Microsoft,Irrelevant,"RT @user123: Just finished a workout, feeling great today check http://t.co/abc123"
+10343,CallOfDuty,Neutral,@FRIENDLY_USER ANYONE KNOW THE SYSTEM REQUIREMENTS FOR CALLOFDUTY VIA @SOURCE
+10137,Google,Negative,"RT @user123: Worst experience with Google support, still unresolved !!!"
+10260,Xbox,Neutral,Xbox announced a new event starting next week lolll
+10038,Borderlands,Irrelevant,Can't decide what to cook for dinner tonight
+10201,PlayStation5,Positive,"Genuinely happy with PlayStation5 lately, well done team ..."
+10373,Cyberpunk2077,Negative,"Cyberpunk2077 servers have been down all day, unacceptable #gaming"
+10290,Nvidia,Negative,"I regret spending money on Nvidia, total waste"
+10189,Microsoft,Neutral,@friendly_user Microsoft announced a new event starting next week
+10251,Xbox,Negative,Thinking about quitting Xbox for goooood after this mess
+10112,Amazon,Irrelevant,RT @user123: Can't decide what to cook for dinner tonight #gaming
+10183,Microsoft,Neutral,RT @USER123: COMPARING MICROSOFT PRICING PLANS BEFORE DECIDING ...
+10152,Google,Irrelevant,Grabbed coffee this morning then headed to work lolll
+10312,Nvidia,Irrelevant,"Just finished a workout, feeling great today"
+10325,CallOfDuty,Positive,"CallOfDuty support team fixed my issue in minutes, awesome service via @source"
+10191,Microsoft,Irrelevant,Weekend plans involve absolutely nothing and I love it lolll
+10044,Overwatch,Positive,Can't stop talking about how good Overwatch is right now
+10275,Xbox,Irrelevant,WEATHER HAS BEEN SO WEIRD ALL WEEK HERE !!!
+10006,Borderlands,Positive,BEEN USING BORDERLANDS ALL WEEK AND IT KEEPS GETTING BETTER VIA @SOURCE
+10250,Xbox,negative,"Xbox keeps crashing on me, so frustrating"
+10311,Nvidia,Irrelevant,Grabbed coffee this morning then headed to work
+10075,Overwatch,Irrelevant,Can't decide what to cook for dinner tonight !!!
+10000,Borderlands,Positive,"RT @user123: Genuinely happy with Borderlands lately, well done team"
+10383,Cyberpunk2077,Neutral,Cyberpunk2077 announced a new event starting next week #gaming
+10068,Overwatch,Neutral,@friendly_user Looking for reviews on the latest Overwatch release #gaming
+10167,Microsoft,Positive,HUGE SHOUTOUT TO MICROSOFT FOR SUCH AN AMAZING RELEASE LOLLL
+10218,PlayStation5,Negative,"RT @user123: Worst experience with PlayStation5 support, still unresolved #brand"
+10042,Overwatch,Positive,"Overwatch community is so wholesome, love being part of it #brand"
+10366,Cyberpunk2077,Positive,"@friendly_user Cyberpunk2077 just made my day, this update is incredible honestly #gaming"
+10345,CallOfDuty,Neutral,CallOfDuty released patch notes earlier today !!!
+10072,Overwatch,Irrelevant,"Random thought, pineapple does not belong on pizza check http://t.co/abc123"
+10023,Borderlands,Neutral,@friendly_user Reading through the Borderlands changelog before the weekend
+10185,Microsoft,Neutral,COMPARING MICROSOFT PRICING PLANS BEFORE DECIDING !!!
+10348,CallOfDuty,Neutral,CallOfDuty released patch notes earlier today lolll
+10103,Amazon,Neutral,Amazon stock moved slightly after the earnings call #brand
+10211,PlayStation5,Negative,"I regret spending money on PlayStation5, total waste #gaming"
+10067,Overwatch,Neutral,RT @user123: Overwatch posted an update on their roadmap today #gaming
+10025,Borderlands,Neutral,Borderlands released patch notes earlier today
+10196,Microsoft,Irrelevant,Weather has been so weird all week here ...
+10175,Microsoft,Negative,"@friendly_user Microsoft removed the feature everyone liked, terrible decision ..."
+10196,Microsoft,Irrelevant,Weather has been so weird all week here ...
+10016,Borderlands,Negative,"Borderlands keeps crashing on me, so frustrating"
+10021,Borderlands,Neutral,Does Borderlands work on the older hardware models #gaming
+10019,Borderlands,Negative,Borderlands customer service was unhelpful honestly #gaming
+10243,Xbox,Positive,"Genuinely happy with Xbox lately, well done team"
+10149,Google,Neutral,This Google tutorial helped me understand the basics ...
+10184,Microsoft,Neutral,
+10029,Borderlands,Neutral,"Just saw Borderlands trending, wonder what happened via @source"
